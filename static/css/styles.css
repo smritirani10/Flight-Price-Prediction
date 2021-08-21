@@ -1,12 +1,18 @@
-body {
-    background-color: #e1f4f3;
-    text-align: center;
+.card-title{
+    background-color: #ffe0cc;
 }
-
+.card-body{
+	background-color: #c2c2a3;
+}
+body {
+    background-image:  url("flight.jpg") ;
+    background-repeat: no-repeat;
+    text-align: center;
+   
+}
 .navbar {
     background-color: #333333;
 }
-
 a {
     color: #f1f9f9;
 }
